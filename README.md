@@ -1,6 +1,6 @@
 # Utility CLI
 
-**Utility CLI** is a CLI focussing on automating day-to-day tasks. This tool simplifies the management of ML pipelines on AWS with easy commands to create, list, start, update and delete SageMaker pipelines. Additionally this tool also supports version bumps using semantic versioning. Soon will expand support for other Infras!
+**Utility CLI** is a tool focussing on automating day-to-day tasks. This tool simplifies the management of ML pipelines on AWS with easy commands to create, list, start, update and delete SageMaker pipelines. Additionally this tool also supports version bumps using semantic versioning. Soon will expand support for other Infras!
 
 ## Features
 
